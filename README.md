@@ -24,7 +24,7 @@ I'm a software developer with a strong foundation in data structures, algorithms
 
 **Database:** PostgreSQL
 
-**DevOps:** CI/CD, Docker, Github Action
+**DevOps:** CI/CD, Docker, kubernetes
 
 **AI/ML:** Machine Learning fundamentals & applied AI/ML
 
