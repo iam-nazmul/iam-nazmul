@@ -10,7 +10,7 @@ Rajshahi, Bangladesh
 
 ## About Me
 
-I'm a software developer with a strong foundation in data structures, algorithms, and competitive programming, paired with hands-on experience across the full stack — from Django/FastAPI/ERPNext backends to React/Next.js frontends, PostgreSQL-driven data layers, and CI/CD-powered DevOps workflows. I also work with AI/ML to build smarter, data-driven features. I enjoy the dual challenge of solving tight, logic-driven problems and shipping practical, production-ready software. Currently affiliated with **Smart Technology Services**.
+I'm a software developer with a strong foundation in data structures, algorithms, and competitive programming, paired with hands-on experience across the full stack — from Django/FastAPI/ERPNext backends to React/Next.js/VueJS frontends, PostgreSQL-driven data layers, and CI/CD-powered DevOps workflows. I also work with AI/ML to build smarter, data-driven features. I enjoy the dual challenge of solving tight, logic-driven problems and shipping practical, production-ready software. Currently affiliated with **Smart Technology Services**.
 
 ---
 
