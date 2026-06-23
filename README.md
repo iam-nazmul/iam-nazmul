@@ -17,12 +17,19 @@ I'm a software developer with a strong foundation in data structures, algorithms
 ## Skills
 
 **Languages:** Python, C/C++, Java, JavaScript
+
 **Backend:** Django, FastAPI, ERPNext
+
 **Frontend:** React, Next.js
+
 **Database:** PostgreSQL
+
 **DevOps:** CI/CD, Docker
+
 **AI/ML:** Machine Learning fundamentals & applied AI/ML
+
 **Core Strengths:** Data Structures & Algorithms, Competitive Programming, Full-Stack Web Development
+
 **Other:** Git/GitHub workflows, REST API design
 
 ---
