@@ -20,11 +20,11 @@ I'm a software developer with a strong foundation in data structures, algorithms
 
 **Backend:** Django, FastAPI, ERPNext
 
-**Frontend:** React, Next.js
+**Frontend:** React, Next.js, VueJS, Tailwind CSS
 
 **Database:** PostgreSQL
 
-**DevOps:** CI/CD, Docker
+**DevOps:** CI/CD, Docker, Github Action
 
 **AI/ML:** Machine Learning fundamentals & applied AI/ML
 
