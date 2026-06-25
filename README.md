@@ -24,7 +24,7 @@ I'm a software developer with a strong foundation in data structures, algorithms
 
 **Frontend:** React, Next.js, VueJS, Tailwind CSS
 
-**Database:** PostgreSQL
+**Database:** PostgreSQL, MariaDB, MongoDB
 
 **DevOps:** CI/CD, Docker, kubernetes
 
