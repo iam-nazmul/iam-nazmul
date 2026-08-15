@@ -1,7 +1,7 @@
 # Md. Nazmul Hossain
 
 **Software Developer | Competitive Programmer**
-Rajshahi, Bangladesh
+Dhaka, Bangladesh
 
 📧 [nazmul.cse48@gmail.com](mailto:nazmul.cse48@gmail.com) · 📱 +880 1761-777748
 🔗 [GitHub](https://github.com/iam-nazmul) · [LinkedIn](https://www.linkedin.com/in/iam-nazmul/) · [Web](https://iam-nazmul.github.io/portfolio/)
