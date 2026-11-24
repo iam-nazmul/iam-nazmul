@@ -38,29 +38,29 @@ I'm a software developer with a strong foundation in data structures, algorithms
 
 ## Featured Projects
 
-### 🧮 [Competitive_Code](https://github.com/iam-nazmul/Competitive_Code)
-A curated collection of data structure and algorithm solutions, built while practicing competitive programming problem sets.
-**Tech:** Algorithms, Data Structures
+### ✈️ [Wayfare](https://github.com/iam-nazmul/Wayfare)
+Flight and air-ticket management platform covering the full life of a seat: fare search, booking with PNR, card payment, e-ticket issuance, seat selection, check-in, boarding passes, changes and refunds. Idempotent Celery jobs, payment webhooks and analytics on ClickHouse, fully containerized.
+**Tech:** Django 5.2, DRF, React 19, PostgreSQL, Redis, Celery, ClickHouse, Stripe, Docker
 
-### 🛒 [django-ecommerce](https://github.com/iam-nazmul/django-ecommerce)
-A full-featured e-commerce web application built with Django, covering product listings, cart, and order flows.
-**Tech:** Django, Python, CSS
+### 🧭 [Frappe Manager Web UI](https://github.com/iam-nazmul/frappe-manager-web-ui)
+Browser-based manager for Dockerized Frappe/ERPNext sites. Create sites with a version picker, set up Traefik with Let's Encrypt (HTTP-01 / Cloudflare DNS-01), and control containers and supervisor processes with live logs.
+**Tech:** FastAPI, Jinja2, Docker Compose, Traefik, MariaDB, ERPNext
 
-### 📋 [ClassTest-Assesment](https://github.com/iam-nazmul/ClassTest-Assesment)
-A class test result management system for academic institutions, handling student records and grading workflows.
-**Tech:** PHP
+### 🧩 [ERPNext Toolkit](https://github.com/iam-nazmul/erpnext-toolkit)
+All-in-one Claude Code plugin for ERPNext/Frappe work: skills, slash commands (`/erp-query`, `/erp-doctype`, `/erp-report`, `/erp-fix`), developer and analyst agents, and a live MCP connection to an ERPNext instance.
+**Tech:** ERPNext, Frappe, Claude Code, MCP, AI agents
 
-### ⚡ [10-minute-app](https://github.com/iam-nazmul/10-minute-app)
-A lightweight, rapidly-built Python application demonstrating quick prototyping skills.
-**Tech:** Python
+### 🔎 [Ferret](https://github.com/iam-nazmul/ferret)
+Enterprise document assistant that answers questions from company PDFs and web sources, with a citation behind every claim. It says "I don't know" instead of guessing, and flags conflicting sources.
+**Tech:** FastAPI, LangGraph, Anthropic Claude, hybrid search (RRF), SQLAlchemy, Celery
 
-### 🔁 [Checkbox-Django-Ajax-Multiple-delete-SameTime](https://github.com/iam-nazmul/Checkbox-Django-Ajax-Multiple-delete-SameTime)
-A Django utility enabling multiple checkbox-based record deletions in a single AJAX request — improving UX for bulk data operations.
-**Tech:** Python, Django, AJAX
+### 💳 [Unlimited – E-Commerce Payment Gateway](https://github.com/iam-nazmul/unlimited-app-centric_e-commerce)
+Polyglot microservices purchase flow (product → order → payment) using saga orchestration with compensating actions and idempotent payments. Each service has its own datastore and cloud target.
+**Tech:** FastAPI, Node.js/Express, Spring Boot, Next.js, MongoDB, Cassandra, PayPal, Docker
 
-### 🐳 [Important-Docker-Command](https://github.com/iam-nazmul/Important-Docker-Command)
-A reference repository documenting essential Docker commands for development and deployment workflows.
-**Tech:** Docker
+### 🧪 [PromptBench Lite](https://github.com/iam-nazmul/PromptBenchLite)
+Python toolkit that catches LLM prompt regressions in CI. It scores a golden set with deterministic checks, semantic similarity and an LLM judge, and fails the build when quality drops below the baseline.
+**Tech:** Python, Claude (LLM-as-judge), sentence-transformers, LangSmith, GitHub Actions
 
 > 📁 Explore all 275+ repositories on [GitHub →](https://github.com/iam-nazmul?tab=repositories)
 
@@ -86,4 +86,4 @@ I'm open to opportunities in software development and enjoy collaborating on pro
 
 ---
 
-*This portfolio is a living document — last updated June 2026.*
+*This portfolio is a living document — last updated November 2026.*
